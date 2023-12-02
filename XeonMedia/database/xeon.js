@@ -1,1 +1,3 @@
-
+{
+	"name": "Ryuu Bot"
+}
