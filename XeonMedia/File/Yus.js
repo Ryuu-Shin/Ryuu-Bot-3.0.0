@@ -1,1 +1,3 @@
-f
+{
+	"name": "Ryuu Bot"
+}
